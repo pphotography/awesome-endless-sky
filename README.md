@@ -76,6 +76,7 @@ Since this list strives for completeness rather than listing only the best, it's
 - [Boarding Enhancements](https://github.com/Cat-Lady/Boarding-Enhancements) - Adds various human-space boarding related outfits, balanced around vanilla experience and fully integrated into game (purchase availability, usage by AI fleets, licenses required).
 - [Boarding Missions](https://github.com/tmbutterworth/boarding-missions) - Small plugin that adds chance for being rewarded for assisting disabled Milita, Free worlds, and Navy ships.
 - [Bounty Hunters/Bounties Hunted Fix](https://github.com/Cat-Lady/Bounty-Fix) - This plugin makes Pirates/Marauders that are subject of Bounty Hunting missions be properly seen as enemies by Militia/Navy/Deep Security/Merchants and other forces that should dislike Marauders/Pirates.
+- [Casual Mod](https://github.com/pphotography/EndlessSky_CasualMod) - Makes gameplay for Endless-Sky more casual
 - [Ciu Kreo](https://github.com/RestingImmortal/Ciu-Kreo) - A feature-rich all-content plugin suitable for both content creators and casual players.
 - [Czartrak's Ship Pack](https://github.com/czartrak/Czartraks-Ship-Pack) - Adds several new, mostly human ships.
 - [Endless Sky high-DPI](https://github.com/endless-sky/endless-sky-high-dpi) - The official plug-in for high-DPI monitors.
